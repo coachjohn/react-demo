@@ -5,7 +5,7 @@ import "./app.scss";
 const Header = () => {
   return (
     <header>
-      <h1>My amazing Header</h1>
+      <h1>My hooked up Header</h1>
     </header>
   );
 };
